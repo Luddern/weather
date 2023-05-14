@@ -5,7 +5,7 @@
         <AsyncCityView />
       </template>
       <template #fallback>
-        <CityViewSkeleton />
+        <!-- <CityViewSkeleton /> -->
       </template>
     </Suspense>
   </div>
